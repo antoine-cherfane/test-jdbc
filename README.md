@@ -7,6 +7,7 @@
 ## Setup
 - git clone the project
 - Run the queries.sql file
+- Change the [username](https://github.com/antoine-cherfane/test-jdbc/blob/master/src/Main.java#L8) and the [password](https://github.com/antoine-cherfane/test-jdbc/blob/master/src/Main.java#L9) to match the credentials of your MySQL database
 
 ## Usage
 - Run the following command in the root directory `java -cp "MySQL ConnectorJ/8.0.25/mysql-connector-java-8.0.25.jar" src/Main.java`
